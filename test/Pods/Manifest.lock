@@ -1,0 +1,16 @@
+PODS:
+  - test (0.0.1)
+
+DEPENDENCIES:
+  - test (from `/Users/zhangmin/Desktop/YUU/test.podspec`)
+
+EXTERNAL SOURCES:
+  test:
+    :path: "/Users/zhangmin/Desktop/YUU/test.podspec"
+
+SPEC CHECKSUMS:
+  test: e230cb205529c5c8e7a59a3565f64d26c35b9d4f
+
+PODFILE CHECKSUM: 4d2517fdf107d8559e7f8721bfa6ab7337ed56bd
+
+COCOAPODS: 1.10.1
